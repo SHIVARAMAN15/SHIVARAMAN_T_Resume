@@ -18,7 +18,7 @@ This repository contains my latest **resume** in PDF format and serves as a port
 
 ### 🎓 Education
 - **B.Tech in ECE (AI & Cybernetics)** – VIT Bhopal University  
-  *CGPA: 8.70/10 (2nd Year)*  
+  *CGPA: 8.70/10 (3nd Year)*  
   Key Coursework: DSA, Java, Analog Electronics, Signals and Systems, Applied Linear Algebra
 
 ---
