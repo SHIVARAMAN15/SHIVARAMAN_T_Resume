@@ -1,6 +1,6 @@
 # 📄 Shivaraman T – Resume Repository
 
-Hi! 👋 I’m **Shivaraman T**, a second‑year B.Tech student in **Electronics and Communication Engineering (Specializing in Artificial Intelligence & Cybernetics)** at **VIT Bhopal University**.
+Hi! 👋 I’m **Shivaraman T**, a Third‑year B.Tech student in **Electronics and Communication Engineering (Specializing in Artificial Intelligence & Cybernetics)** at **VIT Bhopal University**.
 
 This repository contains my latest **resume** in PDF format and serves as a portfolio hub for my projects and achievements.
 
