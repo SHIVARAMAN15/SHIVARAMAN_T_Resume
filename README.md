@@ -1,4 +1,3 @@
-```markdown
 # Shivaraman T — Resume
 
 Welcome to my resume repository! I am a final-year B.Tech Electronics and Communication Engineering student at Vellore Institute of Technology, specializing in Artificial Intelligence and Cybernetics.
