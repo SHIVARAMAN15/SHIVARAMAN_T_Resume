@@ -1,329 +1,114 @@
-# SHIVARAMAN T — Engineering Resume
+```markdown
+# Shivaraman T — Resume
 
-<p align="center">
-  <b>Electronics & Communication Engineering | AI & Cybernetics | Hardware & Engineering Analysis</b>
-</p>
+Welcome to my resume repository! I am a final-year B.Tech Electronics and Communication Engineering student at Vellore Institute of Technology, specializing in Artificial Intelligence and Cybernetics.
 
-<p align="center">
-  <a href="https://shivaraman-portfolio.vercel.app/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/shivaramant">LinkedIn</a> •
-  <a href="https://github.com/SHIVARAMAN15">GitHub</a>
-</p>
+I am interested in opportunities involving Artificial Intelligence, Data Analytics, Cloud Computing, Software Engineering, and Application Development.
 
----
+## 👨‍💻 About Me
 
-## About Me
+- **Degree:** B.Tech in Electronics and Communication Engineering
+- **Specialization:** Artificial Intelligence and Cybernetics
+- **University:** Vellore Institute of Technology
+- **CGPA:** 8.68/10
+- **Graduation Year:** 2027
+- **Location:** Salem, Tamil Nadu, India
 
-I am a B.Tech Electronics and Communication Engineering student specializing in
-**AI & Cybernetics** at Vellore Institute of Technology, with a CGPA of **8.68/10**.
+## 🛠️ Technical Skills
 
-My technical interests include **engineering analysis, Computer-Aided Engineering (CAE),
-electronics, control systems, embedded systems, simulation, industrial automation,
-hardware design, and product development**.
+- **Programming Languages:** Python, Java, SQL, JavaScript, Embedded C
+- **AI and Data Analytics:** Machine Learning, NumPy, Pandas, SciPy, Scikit-learn, Statistical Analysis
+- **Cloud Technologies:** AWS EC2, AWS S3, Cloud Computing
+- **Databases:** MySQL/SQL concepts, MongoDB, SQLite, DBMS
+- **Web Development:** React, Flask, REST APIs
+- **Tools:** Git, GitHub, Linux, Postman
+- **Core Competencies:** Analytical Reasoning, Problem-Solving, Algorithm Development, Data Interpretation, Debugging, Automation
 
-I have hands-on experience in **PCB design, circuit simulation, sensor data acquisition,
-hardware testing, system validation, troubleshooting, and technical documentation**.
+## 🚀 Projects
 
----
+### 1. Voice Command Shopping Assistant — VoiceCart
 
-## Education
+A multilingual voice-enabled shopping application that interprets spoken commands and supports user interaction.
 
-### Vellore Institute of Technology
+**Key Features**
+- Voice interaction using Web Speech APIs.
+- Support for English, Hindi, and Tamil.
+- NLP-based intent classification using regular expressions.
+- Reported 92% intent execution accuracy in project testing.
 
-**B.Tech – Electronics and Communication Engineering (AI & Cybernetics)**  
-September 2023 – May 2027
+**Links:** [GitHub Repository](https://github.com/SHIVARAMAN15/SR_Shop_Voice_Assistant) | [Live Demo](https://sr-shop-voice-assistant.vercel.app/)
 
-**CGPA:** 8.68 / 10
+### 2. Task Management Platform
 
----
+A role-based productivity application designed to organize tasks and support workflow management.
 
-## Technical Skills
+**Key Features**
+- Authentication and role-based access.
+- Task assignment and status tracking.
+- Relational database design and indexed keys.
+- Application debugging and root cause analysis.
 
-### CAE & Engineering Analysis
+**Repository:** [Task Management System](https://github.com/SHIVARAMAN15/Task-Management-System)
 
-- Computer-Aided Engineering (CAE) Fundamentals
-- Finite Element Analysis (FEA) Fundamentals
-- Engineering Mechanics
-- Material Properties
-- Loads and Boundary Conditions
-- Meshing Concepts
-- Engineering Validation
-- Result Interpretation
+### 3. ECG Signal Analytics and Heart Rate Estimation
 
-### Simulation & Engineering Tools
+A Python-based signal-processing project for analyzing ECG datasets and extracting useful signal features.
 
-- MATLAB
-- Simulink
-- Keysight ADS
-- LTspice
-- Proteus
-- Circuit Simulation
-- Measurement
-- Data Acquisition
-- Testing
-- Technical Documentation
+**Key Features**
+- ECG data cleaning and preprocessing.
+- Fourth-order Butterworth filtering.
+- Peak detection and heart-rate estimation.
+- Heart-rate variability analysis.
 
-### Electronics & Control Systems
+**Repository:** [ECG Signal Processing and Heart Rate Analysis](https://github.com/SHIVARAMAN15/ECG-Signal-Processing-and-Heart-Rate-Analysis)
 
-- Circuit Analysis
-- Analog Electronics
-- Digital Electronics
-- Power Electronics
-- Control Systems
-- Feedback Systems
-- PID Control
-- Sensors
-- Signal Conditioning
-- Calibration
-- AC/DC Fundamentals
+## 💼 Experience
 
-### Hardware & Embedded Systems
+### MPOnline Limited — Software Engineering Intern
 
-- ESP32
-- Arduino
-- Microcontrollers
-- Embedded C
-- UART
-- I2C
-- SPI
-- PWM
-- ADC
-- GPIO
-- Motor Control
-- Relay Control
-- Industrial Automation
-- System Integration
+**May 2026 – July 2026**
 
-### PCB & Hardware Design
+- Profiled and optimized Python routines in staging environments.
+- Investigated database issues and performed root cause analysis.
+- Prepared technical documentation and unit test cases.
+- Contributed to application reliability and software quality.
 
-- Cadence Allegro
-- OrCAD Capture CIS
-- Schematic Design
-- Schematic Analysis
-- PCB Layout
-- Component Placement
-- Stackup
-- Decoupling
-- Design Rule Checks
-- Signal Integrity
-- Power Integrity
-- Design Validation
+## 🏆 Achievements
 
----
+- **TCS CodeVita Season 13:** Global Rank 1347.
+- **AWS Machine Learning Challenge:** Top 100.
+- **Bharatiya Antariksh Hackathon 2024:** Finalist.
 
-# Experience
+## 📜 Certifications
 
-## Zettaone Technologies, Bengaluru
+- AWS Certified Cloud Practitioner — Amazon Web Services.
+- Applied Machine Learning in Python — University of Michigan, Coursera.
+- Programming in Modern C++ — NPTEL, IIT Kanpur.
+- Signal Processing with MATLAB.
+- MATLAB Fundamentals.
 
-**PCB Design Intern**  
-June 2026 – July 2026
+## 📚 Publication
 
-- Supported PCB design and hardware development using **Cadence Allegro and
-  OrCAD Capture CIS**.
-- Worked on schematic analysis, component placement, PCB layout, stackup,
-  decoupling, trace-width selection, and design-rule checks.
-- Used **ADS and LTspice** for circuit simulation and troubleshooting.
-- Evaluated impedance, switching waveforms, DC/AC behavior, and hardware
-  measurements.
-- Supported circuit performance validation against design requirements.
+Co-authored *Smart Helmet Systems: IoT Enhanced Safety and Integrated Display for Two Wheelers*, published and presented at ICRAME 2025, NIT Silchar.
+
+## 🎯 Career Interests
+
+I am interested in contributing to projects involving:
+
+- Enterprise AI and Business Intelligence.
+- Data Analytics and Machine Learning.
+- Cloud-Based Applications.
+- Software and Application Development.
+- Process Automation and Analytical Problem-Solving.
+
+## 📫 Connect With Me
+
+- **Email:** intelshivaram005@gmail.com
+- **LinkedIn:** [linkedin.com/in/shivaramant](https://www.linkedin.com/in/shivaramant)
+- **GitHub:** [github.com/SHIVARAMAN15](https://github.com/SHIVARAMAN15)
+- **Portfolio:** [shivaraman-portfolio.vercel.app](https://shivaraman-portfolio.vercel.app/)
 
 ---
 
-## Aqualis Inspection Services, Dubai
-
-**Engineering Intern**  
-May 2025 – June 2025
-
-- Supported inspection and validation of **5+ industrial hardware monitoring units**.
-- Performed sensor data acquisition, measurement, functional testing, and
-  system-level fault investigation.
-- Created wiring diagrams, inspection records, test documentation, and
-  validation reports.
-- Supported equipment verification and engineering quality processes.
-
----
-
-# Projects
-
-## Industrial Machine Health Monitoring System
-
-**Machine Monitoring | Sensors | IoT**
-
-A machine-condition monitoring system designed to monitor important operating
-parameters of industrial equipment.
-
-### Key Features
-
-- Vibration measurement
-- Temperature monitoring
-- Current measurement
-- Gas sensing
-- Sensor data acquisition
-- Signal processing
-- Machine-condition assessment
-- IoT communication
-- Result visualization
-
-### Objective
-
-To develop a monitoring architecture capable of collecting machine parameters
-and using the acquired data to support engineering analysis and machine-condition
-assessment.
-
----
-
-## Smart Aeroponics System
-
-**ESP32 | IoT | Closed-Loop Control**
-
-An automated monitoring and control system for aeroponic cultivation.
-
-### Key Features
-
-- Real-time pH measurement
-- TDS measurement
-- Temperature monitoring
-- Water-level monitoring
-- ESP32-based control
-- ADC-based sensor acquisition
-- 1-Wire communication
-- Closed-loop control
-- Automated nutrient dosing
-- Automated misting
-- Sensor calibration
-- Functional testing
-
-### Technologies
-
-`ESP32` `Sensors` `Embedded C` `ADC` `IoT` `Relay Control`
-
----
-
-## Automatic Aerator System – AquaDox
-
-**Arduino | Sensors | Control Systems**
-
-An automated dissolved oxygen monitoring and aeration control system.
-
-### Key Features
-
-- Dissolved oxygen monitoring
-- Sensor acquisition
-- Sensor calibration
-- Signal conditioning
-- ADC interfacing
-- Threshold-based control
-- Actuator control
-- Firmware development
-- Hardware troubleshooting
-
-### Technologies
-
-`Arduino` `Embedded C` `Sensors` `ADC` `Control Systems`
-
----
-
-## Smart Patrol Bot
-
-**ESP32-CAM | Motor Control | IoT Surveillance**
-
-A mobile surveillance system integrating embedded control, sensing, and motor
-control.
-
-### Key Features
-
-- ESP32-CAM integration
-- Arduino UNO
-- PIR sensors
-- L298N motor driver
-- DC motors
-- PWM motor control
-- UART communication
-- Sensor interfacing
-- Mobile surveillance
-- Hardware integration and testing
-
----
-
-# Publication
-
-## Smart Helmet Systems: IoT Enhanced Safety and Integrated Display for Two Wheelers
-
-Published through the:
-
-**6th International Conference on Recent Advancements in Mechanical Engineering
-(ICRAME 2025), NIT Silchar**
-
-[View Publication](https://link.springer.com/chapter/10.1007/978-981-95-3975-8_1)
-
----
-
-# Achievements
-
-- **Global Rank 1347** – TCS CodeVita Season 13
-- **Top 100** – Zealestra X AWS Machine Learning Challenge
-- **Selected Participant** – Bharatiya Antariksh Hackathon 2024 (ISRO)
-
----
-
-# Certifications
-
-- **Arduino Programming & Embedded Systems** – GUVI-HCL
-- **MATLAB Signal Processing**
-- **Embedded Systems – Raspberry Pi & Arduino**
-- **AWS Certified Cloud Practitioner**
-
----
-
-# Career Interests
-
-I am interested in engineering roles involving:
-
-- Computer-Aided Engineering (CAE)
-- Engineering Simulation
-- FEA Fundamentals
-- Industrial Engineering
-- Product Development
-- Hardware Engineering
-- Embedded Systems
-- Control Systems
-- Industrial Automation
-- Engineering Testing & Validation
-- Machine Monitoring
-- Technical Analysis
-
----
-
-# Resume
-
-The latest version of my resume is available in this repository.
-
-**Target Roles:**
-
-`CAE Project Engineer`  
-`Engineering Analyst`  
-`Hardware Engineer`  
-`Embedded Systems Engineer`  
-`Electronics Engineer`  
-`Product Engineer`
-
----
-
-# Contact
-
-**Email:** intelshivaram005@gmail.com
-
-**LinkedIn:**  
-https://www.linkedin.com/in/shivaramant
-
-**GitHub:**  
-https://github.com/SHIVARAMAN15
-
-**Portfolio:**  
-https://shivaraman-portfolio.vercel.app/
-
----
-
-<p align="center">
-  <b>Thank you for visiting my resume repository.</b>
-</p>
+*Thank you for visiting my resume repository!*
+```
